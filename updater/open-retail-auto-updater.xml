@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.6.3.31</version>
-    <url>https://github.com/deden2019/AkangTeknoRetail/releases/download/v1.6.3.31/AkangTeknoRetail-1.6.3.31.zip</url>
-    <mandatory>false</mandatory>
+  <version>1.6.3.31</version>
+  <url>https://github.com/deden2019/AkangTeknoRetail/releases/download/v1.6.3.31/AkangTeknoRetail-1.6.3.31.zip</url>
+  <changelog>https://github.com/deden2019/AkangTeknoRetail/releases/tag/v1.6.3.31</changelog>
+  <mandatory>false</mandatory>
 </item>
