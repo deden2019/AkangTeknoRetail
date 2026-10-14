@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.6.3.34</version>
+
+    <url>
+        https://github.com/deden2019/AkangTeknoRetail/releases/download/v1.6.3.34/AkangTeknoRetailCashier-1.6.3.34.zip
+    </url>
+
+    <title>AkangTekno Retail Cashier</title>
+
+    <changelog>
+        https://github.com/deden2019/AkangTeknoRetail/releases/tag/v1.6.3.34
+    </changelog>
+
+    <mandatory>false</mandatory>
+</item>
